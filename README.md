@@ -1,6 +1,7 @@
 # STAGC
 
 **In this paper, we propose Attribute Graph Clustering Driven Cell Map of Single Cell Spatial Transcriptome (STAGC), a clustering-driven graph autoencoder method that innovatively integrates spatial proximity and gene expression similarity to construct biologically meaningful graphs. By introducing a soft-label self-supervised mechanism, STAGC optimizes node embeddings specifically for clustering tasks. This approach addresses key limitations of conventional graph-based methods, which often overlook clustering objectives and rely too heavily on spatial distance alone. STAGC demonstrates superior performance in accurately identifying cell types and subpopulations from single-cell spatial transcriptomics data, making it a powerful tool for studying tumor heterogeneity and cell-cell communication.**
+
 ![Overflow](img/overflow.jpg)
 ## Environment
 
@@ -78,24 +79,31 @@ python leiden_Cluster.py
 
 ### Result
 Model:
+
 ![Model:](img/overflow.jpg)
 
 Benchmark:
+
 ![Benchmark:](img/compare.png)
 
 Liver cell cluster and annotations:
+
 ![livercluster.png](img/liver_cluster.png)
 
 Liver cell vis:
+
 ![liverallcellvis.png](img/liver_all_cell_vis.png)
 
 Liver fibroblasts subclass cell analysis:
+
 ![fibroblasts:](img/liver_fibroblasts_subclass_cell_analysis.png)
 
 Liver fibroblasts cell subclass vis:
+
 ![fibroblasts:](img/liver_fibroblasts_cell_subclass_vis.png)
 
 Liver cancer cell subclass vis.png:
+
 ![Benchmark:](img/liver_cancer_cell_subclass_vis.png)
 
 
