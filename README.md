@@ -84,18 +84,18 @@ Benchmark:
 ![Benchmark:](img/compare.png)
 
 Liver cell cluster and annotations:
-![liver cluster.png](img/liver cluster.png)
+![livercluster.png](img/liver_cluster.png)
 
 Liver cell vis:
-![liver all cell vis.png](img/liver all cell vis.png)
+![liverallcellvis.png](img/liver_all_cell_vis.png)
 
 Liver fibroblasts subclass cell analysis:
-![fibroblasts:](img/liver fibroblasts subclass cell analysis.png)
+![fibroblasts:](img/liver_fibroblasts_subclass_cell_analysis.png)
 
 Liver fibroblasts cell subclass vis:
-![fibroblasts:](img/liver fibroblasts cell subclass vis.png)
+![fibroblasts:](img/liver_fibroblasts_cell_subclass_vis.png)
 
 Liver cancer cell subclass vis.png:
-![Benchmark:](img/liver cancer cell subclass vis.png)
+![Benchmark:](img/liver_cancer_cell_subclass_vis.png)
 
 
