@@ -1,5 +1,5 @@
 import torch
-from module3 import Encoder
+from module import Encoder
 import pandas as pd
 import os
 #5
